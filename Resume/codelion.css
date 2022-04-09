@@ -1,0 +1,75 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat+Alternates);
+
+* {
+    font-family: 'Montserrat';
+}
+body {
+    min-width: fit-content;
+}
+.name-text {
+    font-weight: bold;
+    font-style: italic;
+}
+.title-text{
+    text-align: right;
+    margin-right: 20px;
+}
+.main-box{
+    width: 610px;
+    margin: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #ebebeb;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+    padding: 25px;
+}
+.sub-title{
+    margin-top: 50px;
+    font-size: 26px;
+    border-bottom: solid 1px #111;
+    padding-bottom: 10px;
+}
+
+footer{
+    padding: 20px;
+    text-align: center;
+    background-color: #272727;
+    color: #ebebeb;
+}
+
+.sub{
+    font-weight: lighter;
+    font-size: 15px;
+    line-height: 16px;
+}
+.role{
+    color: #272727;
+}
+
+.float-wrap{
+    font-weight: bold;
+    overflow: hidden;
+}
+
+.experience-title{
+    float: left;
+}
+
+.experience-year{
+    float: right;
+}
+.desc-text{
+    font-weight: lighter;
+}
+.desc-sub{
+    font-weight: lighter;
+    margin-left: 20px;
+}
+.sns-wrap{
+    text-align: right;
+}
+.img{
+    height: 16px;
+    width: 16px;
+}
+
